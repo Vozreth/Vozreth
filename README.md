@@ -15,7 +15,9 @@
 
 ## 🛠️ Technologies I'm Learning
 
-`HTML` · `CSS` · `PHP` · `SQL` · `Node.js` · `Java` · `Rust`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,nodejs,java,rust&theme=dark" alt="HTML, CSS, PHP, MySQL, Node.js, Java and Rust" />
+</p>
 
 > I am still learning these technologies and building my experience.
 
@@ -35,4 +37,4 @@ The project includes configurable TAB, scoreboard, lobby protection, lobby items
 
 ## 🤝 Contact
 
-Feel free to open an issue on one of my projects for feedback or suggestions.](https://github.com/lowlighter/metrics)
+Feel free to open an issue on one of my projects for feedback or suggestions.
