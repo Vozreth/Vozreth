@@ -16,7 +16,7 @@
 ## 🛠️ Technologies I'm Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,nodejs,java,rust&theme=dark" alt="HTML, CSS, PHP, MySQL, Node.js, Java and Rust" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,java,python,cpp,rust,htmx&theme=dark" alt="HTML, CSS, JavaScript, PHP, MySQL, Node.js, Java, Python, C++, Rust and HTMX" />
 </p>
 
 > I am still learning these technologies and building my experience.
