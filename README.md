@@ -1,4 +1,4 @@
-[<h1 align="center">Hi, I'm Vozreth 👋</h1>
+<h1 align="center">Hi, I'm Vozreth (Gökhan) 👋</h1>
 
 <p align="center">
   17-year-old student exploring software, automation, and Minecraft plugin development.
